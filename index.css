@@ -50,7 +50,7 @@
 }
 .card{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    border-radius: 20px;
+    border-radius: 2px;
 }
 
 .card:hover {
@@ -58,7 +58,7 @@
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
 }
 .card-img-top{
-    border-radius: 20px;
+    border-radius: 2px;
 }
 .cardrow2{
     position: absolute;
@@ -154,12 +154,6 @@ li,a,.s{
 .bb{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
-
-/* 
-container{
-    margin-left: 20%;
-} */
-
 .container1{
     margin-left: 10%;
     margin-top: 5%;
@@ -179,112 +173,50 @@ container{
 }
 
 
-
-
-
-.footer{
-    background-color: black;
+.footer{  
+    background-color: rgb(0, 0, 0);
     width: 100%;
-    height: auto;
+    height: 700px;   
 }
-
-
-.footerl{
-    margin-top: 55px;
-    display: flex;
-    max-width: 1080px;
-    padding: 15px 15px 45px;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-.f{
-    color: beige;
-    margin: 30px 0 0;
-    line-height: 2;
-    font-size: 1.07rem;
-
-    margin: 30px 0 0;
-    line-height: 2;
-    font-size: 1.07rem;
-}
-.ff{
-    color: beige;
-    margin: 30px 0 0;
-    line-height: 2;
-    font-size: 1.07rem;
-}
-.fff{
-    color: beige;
-    margin: 30px 0 0;
-    line-height: 2;
-    font-size: 1.07rem;
-}
-.ffff{
-    color: beige;
-    margin: 30px 0 0;
-    line-height: 2;
-    font-size: 1.07rem;
-    margin-left: 5px;
-}
-/* .f1{
-
-    color: white;
-    padding: 0px;
-}  */
-
-.li{
-    color: rgb(255, 255, 255);
-}
-.c{
-    color: white;
-}
-.t{
-    color: white;
-}
-.s{
-    font-size: 15px;
-}
-.container3{
-    margin-top: 4%;
-    margin-left: 15%;
-}
-.h{
-    color: rgb(195, 195, 195);
-    font-size: smaller;
-    margin-top: 2%;
-    margin-left: 5%;
-    margin-right: 15%;
-    margin-bottom: 5%;
-}
-.Follow{
-    margin-left: 77%;
-}
-.bi{
-    color: white;
-    margin-right: 10px;
-}
-/* .container4{
+.footer row{
+    width: 80%;
     margin-left: 10%;
-} */
-.d{
-    color: white;
-    font-size: 15px;
+    margin-right: 10%;
 }
-
-
-
-.rounded{
+.roun{
+    background-color: rgb(50, 52, 53);
+    border-radius: 10px;
+    width: 199px;
     border: 2px solid white;
     display: inline-flex;
-    justify-content: center;
 }
-/* .o{
-    margin-bottom: 10%;
-} */
- /* .page{
+.roun1{
+    background-color: rgb(50, 52, 53);
+    border-radius: 10px;
+    width: 219px;
+    border: 2px solid white;
+    display: inline-flex;
+}
+.s{
     color: white;
- } */
-  .o{
-    margin-left: 2px;
-  }
+}
+.bi{
+    letter-spacing: 20px;
+}
+
+.large-icon {
+    font-size: 25px; /* Adjust size as needed (e.g., 2rem = 32px, 3rem = 48px) */
+    color: inherit;  /* Optional: Set a color for the icon */
+}
+.middle-icon{
+    font-size: 30px;
+}
+.flogo{
+    width: 90px;
+    height: 100px;
+    margin-top: 1%;
+    margin-left: 47%;
+    background-color:white;
+    margin-bottom: 2%;
+    border-radius: 10px;
+}
