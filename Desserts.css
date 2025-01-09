@@ -1,0 +1,222 @@
+.header{
+
+    width: 100%;
+    height: 200px;  
+}
+
+.logo{
+    width: 120px;
+    height: 60px;
+    margin-left: 200px;
+    margin-top: 5px;
+    padding: auto;
+}
+
+.navbar{
+    border: 1px solid lightgray;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+
+.nav-link{
+    border-right: 1px solid lightgray;
+    padding: 12px 40px !important;
+}
+/* .nav-item{
+ background-image: url('./Images/Pizza-4.jfif');
+} */
+
+.my{
+    border-left: 1px solid lightgray;
+    
+}
+
+
+.hii{
+    color: red;
+    text-decoration-line: underline;
+    text-decoration-style: solid;   
+}
+
+.active:hover{
+     /* background-color: red; */
+     background-image: url('./Images/Pizza-12.jfif');
+     /* background-image: url(./Images/bg-img.jfif); */
+     /* background-image: url('./Images/Pizza-10.jfif'); */
+
+}
+.col1-lg-3{
+    width: 25%;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 2px;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+.card-img-top{
+    border-radius: 2px;
+}
+.cardrow2{
+    position: absolute;
+    margin-left: 40%;
+    margin-bottom:80%;
+    margin-top:0px;
+    display: inline-block;
+}
+a{
+    list-style-type: none;
+    color: white;
+}
+
+li,a,.s{
+    list-style-type: none;
+}
+.s{
+ list-style: none;
+ text-decoration: none;
+ list-style-type: none;
+}
+.card1{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 50px;
+    width: 20%;
+}
+
+.card1:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+.card1-img-top{
+    width: 100%;
+    border-radius: 50px;
+}
+
+.cardrow2{
+    position: absolute;
+    margin-left: 40%;
+    margin-bottom:80%;
+    margin-top:0px;
+   display: inline-block;
+}
+
+
+.col12{
+    width: 25%;
+    height: 480px;
+}
+.col2-lg-3{
+    width: 33%;
+}
+
+
+/* .row mt-5{
+
+} */
+.row{
+    margin-bottom: 3;
+    width: 100%;
+    gap:20px
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.row1{
+    display: flex;
+    width: 100%; 
+}
+
+.col-lg-3{
+    width: 24%;
+    font-size: large;
+    color: aliceblue;
+    border: 5px;
+}
+
+.loe{
+    width: 70%;
+   
+    color: white;
+   
+}
+.loe1{
+    width: 65%;
+   
+    color: white;
+   
+}
+
+.myy{
+    height: 50%;
+}
+
+.bb{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.container1{
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 100%;
+}
+
+.footer{
+    background-color: black;
+    height: 700px;
+    margin-top: 10%;
+    width: 100%;
+}
+
+.roww{
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+
+.footer{  
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 700px;   
+}
+.footer row{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.roun{
+    background-color: rgb(50, 52, 53);
+    border-radius: 10px;
+    width: 199px;
+    border: 2px solid white;
+    display: inline-flex;
+}
+.roun1{
+    background-color: rgb(50, 52, 53);
+    border-radius: 10px;
+    width: 219px;
+    border: 2px solid white;
+    display: inline-flex;
+}
+.s{
+    color: white;
+}
+.bi{
+    letter-spacing: 20px;
+}
+
+.large-icon {
+    font-size: 25px; /* Adjust size as needed (e.g., 2rem = 32px, 3rem = 48px) */
+    color: inherit;  /* Optional: Set a color for the icon */
+}
+.middle-icon{
+    font-size: 30px;
+}
+.flogo{
+    width: 90px;
+    height: 100px;
+    margin-top: 1%;
+    margin-left: 47%;
+    background-color:white;
+    margin-bottom: 2%;
+    border-radius: 10px;
+}
