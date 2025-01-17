@@ -186,14 +186,14 @@ li,a,.s{
 .roun{
     background-color: rgb(50, 52, 53);
     border-radius: 10px;
-    width: 199px;
+    width: 161px;
     border: 2px solid white;
     display: inline-flex;
 }
 .roun1{
     background-color: rgb(50, 52, 53);
     border-radius: 10px;
-    width: 219px;
+    width: 161px;
     border: 2px solid white;
     display: inline-flex;
 }
@@ -205,18 +205,18 @@ li,a,.s{
 }
 
 .large-icon {
-    font-size: 25px; /* Adjust size as needed (e.g., 2rem = 32px, 3rem = 48px) */
+    font-size: 24px; /* Adjust size as needed (e.g., 2rem = 32px, 3rem = 48px) */
     color: inherit;  /* Optional: Set a color for the icon */
 }
 .middle-icon{
     font-size: 30px;
 }
 .flogo{
-    width: 90px;
-    height: 100px;
+    width: 80px;
+    height: 90px;
     margin-top: 1%;
     margin-left: 47%;
     background-color:white;
     margin-bottom: 2%;
-    border-radius: 10px;
+    border-radius: 5px;
 }
